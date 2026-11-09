@@ -1,0 +1,2 @@
+# Teaching consistency
+Follow the topic note's headings and reuse helpful analogies. If outdated content or an exam gap requires a change, verify against official AWS docs and update the note/outline visibly before teaching the correction. Never preserve an error merely to keep consistency. Official research is already authorized. Avoid unsupported claims about how often a topic appears on the exam; relate it to an official task statement instead.

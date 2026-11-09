@@ -1,0 +1,45 @@
+{
+  "filters": {
+    "conjunction": "and",
+    "conditions": []
+  },
+  "order": {
+    "field": "domain",
+    "direction": "asc"
+  },
+  "columns": [
+    {
+      "id": "file",
+      "width": 250
+    },
+    {
+      "id": "domain",
+      "width": 220
+    },
+    {
+      "id": "status",
+      "width": 130
+    },
+    {
+      "id": "tags",
+      "width": 200
+    }
+  ],
+  "formula": [
+    {
+      "id": "domain",
+      "name": "domain",
+      "type": "frontmatter"
+    },
+    {
+      "id": "status",
+      "name": "status",
+      "type": "frontmatter"
+    },
+    {
+      "id": "tags",
+      "name": "tags",
+      "type": "frontmatter"
+    }
+  ]
+}

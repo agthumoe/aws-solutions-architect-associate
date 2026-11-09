@@ -1,0 +1,61 @@
+{
+  "checked_on": "2026-11-09",
+  "method": "GitHub REST API via gh",
+  "repositories": [
+    {
+      "full_name": "acantril/aws-sa-associate-saac03",
+      "private": false,
+      "archived": false,
+      "default_branch": "main",
+      "pushed_at": "2023-11-07T14:39:26Z",
+      "size": 662896,
+      "html_url": "https://github.com/acantril/aws-sa-associate-saac03",
+      "description": "github repo for https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03",
+      "license": "MIT"
+    },
+    {
+      "full_name": "awslabs/aws-well-architected-labs",
+      "private": false,
+      "archived": false,
+      "default_branch": "main",
+      "pushed_at": "2026-01-14T16:20:40Z",
+      "size": 959437,
+      "html_url": "https://github.com/awslabs/aws-well-architected-labs",
+      "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices.",
+      "license": "Apache-2.0"
+    },
+    {
+      "full_name": "AWSCertifications/AWSCertificationsWiki",
+      "private": false,
+      "archived": false,
+      "default_branch": "main",
+      "pushed_at": "2026-07-25T16:37:21Z",
+      "size": 798,
+      "html_url": "https://github.com/AWSCertifications/AWSCertificationsWiki",
+      "description": "Community-maintained knowledge base for r/AWSCertifications",
+      "license": "MIT"
+    },
+    {
+      "full_name": "apgosar/aws_exam_prep",
+      "private": false,
+      "archived": false,
+      "default_branch": "main",
+      "pushed_at": "2026-05-26T07:10:44Z",
+      "size": 74,
+      "html_url": "https://github.com/apgosar/aws_exam_prep",
+      "description": "Repository for preparation of AWS Certified Solutions Architect Associate - SAA-C03",
+      "license": null
+    },
+    {
+      "full_name": "havoud/AWS-Solutions-Architect-Associate",
+      "private": false,
+      "archived": false,
+      "default_branch": "main",
+      "pushed_at": "2022-12-08T11:06:19Z",
+      "size": 151790,
+      "html_url": "https://github.com/havoud/AWS-Solutions-Architect-Associate",
+      "description": "Creating mindmaps with resources for different AWS services to provide some prepared resources to get AWS Certified Solutions Architect Associate (SAA-03) Certificates easier. ",
+      "license": null
+    }
+  ]
+}

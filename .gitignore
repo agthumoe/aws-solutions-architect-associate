@@ -1,0 +1,24 @@
+# Antigravity CLI local state
+.antigravitycli/
+
+# Claude Code local settings (keep .claude/ tracked for shared config, but exclude local overrides)
+.claude/settings.local.json
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Slides/PDFs (large binary files — add to git-lfs or exclude if too large)
+# slides/
+
+# Download metadata and local credentials
+*:Zone.Identifier
+.aws/
+.env
+.env.*
+!.env.example

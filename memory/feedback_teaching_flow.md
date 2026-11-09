@@ -1,0 +1,2 @@
+# Teaching flow
+Preserve the learner's historical preference: stable outline, one section at a time, explain clearly with an analogy and AWS application, then pause for questions. Use short topics to avoid long stretches of passive reading. Do not force a quiz after every section. At topic end, use a small supportive recall check, one question at a time, followed by architecture scenarios as skill grows. Never reveal answers before a response. Schedule spaced review and record observed recall. The learner can change pacing at any time.

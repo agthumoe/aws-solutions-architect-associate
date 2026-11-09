@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"center0000000001","type":"text","text":"# AWS SAA-C03\nSolutions Architect Associate\n65 Questions · 130 min\nPass: 720/1000","x":-150,"y":-100,"width":300,"height":200,"color":"1"},
+		{"id":"d1file000000000a","type":"file","file":"00-Index/Exam-Domains/01-Design-Secure-Architectures.md","x":-700,"y":-350,"width":320,"height":180,"color":"1"},
+		{"id":"d2file000000000b","type":"file","file":"00-Index/Exam-Domains/02-Design-Resilient-Architectures.md","x":380,"y":-350,"width":320,"height":180,"color":"3"},
+		{"id":"d3file000000000c","type":"file","file":"00-Index/Exam-Domains/03-Design-High-Performing-Architectures.md","x":-700,"y":220,"width":320,"height":180,"color":"4"},
+		{"id":"d4file000000000d","type":"file","file":"00-Index/Exam-Domains/04-Design-Cost-Optimized-Architectures.md","x":380,"y":220,"width":320,"height":180,"color":"5"},
+		{"id":"d1label00000000e","type":"text","text":"**Domain 1: Design Secure Architectures**\n30% · highest weight\n[[08-Security-Identity/01-Advanced-Identity|Advanced Identity]] · [[08-Security-Identity/02-Security-Encryption|Security & Encryption]] · [[01-Foundations/02-IAM-Basics|IAM Basics]]","x":-700,"y":-140,"width":320,"height":170,"color":"1"},
+		{"id":"d2label00000000f","type":"text","text":"**Domain 2: Design Resilient Architectures**\n26%\n[[02-Compute-EC2/04-High-Availability-Scalability|HA & Scalability]] · [[11-Architecture-Patterns/03-Disaster-Recovery-Migrations|DR & Migrations]] · [[05-Networking-Content-Delivery/01-Route53|Route 53]]","x":380,"y":-140,"width":320,"height":170,"color":"3"},
+		{"id":"d3label000000010","type":"text","text":"**Domain 3: Design High-Performing Architectures**\n24%\n[[02-Compute-EC2/01-EC2-Basics|EC2 Basics]] · [[04-Databases/01-RDS-Aurora-ElastiCache|RDS/Aurora/ElastiCache]] · [[05-Networking-Content-Delivery/03-CloudFront-Global-Accelerator|CloudFront & GA]]","x":-700,"y":430,"width":320,"height":170,"color":"4"},
+		{"id":"d4label000000011","type":"text","text":"**Domain 4: Design Cost-Optimized Architectures**\n20% · lowest weight\n[[03-Storage/01-S3|S3]] · [[02-Compute-EC2/01-EC2-Basics|EC2 purchasing options]] · [[05-Networking-Content-Delivery/02-VPC|VPC (NAT/DX cost)]]","x":380,"y":430,"width":320,"height":170,"color":"5"}
+	],
+	"edges":[
+		{"id":"e1000000000000001","fromNode":"center0000000001","fromSide":"left","toNode":"d1file000000000a","toSide":"right","color":"1"},
+		{"id":"e1000000000000002","fromNode":"center0000000001","fromSide":"right","toNode":"d2file000000000b","toSide":"left","color":"3"},
+		{"id":"e1000000000000003","fromNode":"center0000000001","fromSide":"left","toNode":"d3file000000000c","toSide":"right","color":"4"},
+		{"id":"e1000000000000004","fromNode":"center0000000001","fromSide":"right","toNode":"d4file000000000d","toSide":"left","color":"5"},
+		{"id":"e1000000000000005","fromNode":"d1file000000000a","fromSide":"bottom","toNode":"d1label00000000e","toSide":"top","color":"1"},
+		{"id":"e1000000000000006","fromNode":"d2file000000000b","fromSide":"bottom","toNode":"d2label00000000f","toSide":"top","color":"3"},
+		{"id":"e1000000000000007","fromNode":"d3file000000000c","fromSide":"top","toNode":"d3label000000010","toSide":"bottom","color":"4"},
+		{"id":"e1000000000000008","fromNode":"d4file000000000d","fromSide":"top","toNode":"d4label000000011","toSide":"bottom","color":"5"}
+	]
+}

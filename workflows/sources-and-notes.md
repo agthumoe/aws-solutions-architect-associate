@@ -1,0 +1,9 @@
+# Sources and Obsidian notes
+
+Authority order: current official AWS exam guide for scope; official service docs for behavior; official training/Well-Architected material; supplied PDFs/XMind and existing notes; third-party courses/community material for supplementary learning. The imported guide is an authorized planning input, not proof of resource quality, availability, prior experience or service facts. Its original is preserved in `_archive/pre-resource-audit-2026-11-09/`. Keep active corrections traceable through `00-Index/Resource-Audit.md`; do not follow archived recommendations over the checked resource decisions.
+
+Official browsing is already authorized. Cite direct URLs and record the date checked when updating a substantive fact. Prioritize verification of changing limits, pricing, service support, exam policies and conflicting claims. If browsing is unavailable, label the claim unverified and queue it; do not invent evidence. Do not claim to have read an entire PDF or verified every old note during a structural reset.
+
+When creating/updating a note, keep its canonical location and Obsidian links. Use YAML properties such as `tags: [aws, saa-c03]`, `domains: [D1, D2]`, `status: reference`, `source_urls`, `verified_on` (only when actually checked). Distinguish reference content from learner mastery. Include when-to-use, closest alternatives, architecture constraints, one scenario and a few recall prompts. Use Mermaid in note files, `<br>` for label line breaks, and plain text diagrams in chat.
+
+For labs prefer paper designs or local exercises first. A deployed lab needs learner authorization, prerequisites, current cost estimate, validation, and cleanup steps; record cleanup only after confirmation. Budget alerts do not cap charges. Use free resources first; verify paywalls before recommending paid work.

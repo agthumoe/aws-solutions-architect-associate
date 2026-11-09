@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# AWS CLF-C02\nCloud Practitioner\n65 Questions · 90 min\nPass: 700/1000","x":-150,"y":-100,"width":300,"height":200,"color":"1"},
+		{"id":"d1","type":"file","file":"01-Cloud-Concepts/00-Domain-MOC.md","x":-600,"y":-300,"width":300,"height":180,"color":"1"},
+		{"id":"d2","type":"file","file":"02-Security-Compliance/00-Domain-MOC.md","x":300,"y":-300,"width":300,"height":180,"color":"3"},
+		{"id":"d3","type":"file","file":"03-Cloud-Technology-Services/00-Domain-MOC.md","x":-600,"y":200,"width":300,"height":180,"color":"4"},
+		{"id":"d4","type":"file","file":"04-Billing-Pricing-Support/00-Domain-MOC.md","x":300,"y":200,"width":300,"height":180,"color":"5"},
+		{"id":"d1-label","type":"text","text":"**Domain 1: Cloud Concepts**\n24% · ~16 questions\n[[01-Cloud-Computing-Fundamentals|Cloud Computing]] · [[02-AWS-Global-Infrastructure|Global Infra]] · [[03-Well-Architected-Framework|Well-Architected]] · [[04-Cloud-Adoption-Migration|Migration]]","x":-600,"y":-90,"width":300,"height":160,"color":"1"},
+		{"id":"d2-label","type":"text","text":"**Domain 2: Security & Compliance**\n30% · ~19 questions\n[[01-IAM|IAM]] · [[02-Shared-Responsibility-Model|Shared Responsibility]] · [[03-Network-Security|Network Security]] · [[04-Data-Protection-Encryption|Encryption]] · [[05-Compliance-Governance|Governance]]","x":300,"y":-90,"width":300,"height":160,"color":"3"},
+		{"id":"d3-label","type":"text","text":"**Domain 3: Cloud Technology**\n34% · ~22 questions\n[[01-EC2-Compute|EC2]] · [[02-Storage-S3-EBS-EFS|Storage]] · [[03-Databases|Databases]] · [[04-Networking|Networking]] · [[05-Serverless-Containers|Serverless]] · [[06-Monitoring-Management|Monitoring]]","x":-600,"y":400,"width":300,"height":180,"color":"4"},
+		{"id":"d4-label","type":"text","text":"**Domain 4: Billing & Support**\n12% · ~8 questions\n[[01-Pricing-Models|Pricing]] · [[02-Cost-Management-Tools|Cost Tools]] · [[03-Support-Plans|Support Plans]]","x":300,"y":400,"width":300,"height":160,"color":"5"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"d1","toSide":"right","color":"1"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"d2","toSide":"left","color":"3"},
+		{"id":"e3","fromNode":"center","fromSide":"left","toNode":"d3","toSide":"right","color":"4"},
+		{"id":"e4","fromNode":"center","fromSide":"right","toNode":"d4","toSide":"left","color":"5"}
+	]
+}

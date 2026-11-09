@@ -1,0 +1,463 @@
+{
+  "checked_on": "2026-11-09",
+  "method": "Public HTTP GET with redirects; GitHub REST and browser fallback where noted. HTTP success alone does not validate content or logged-in features.",
+  "resources": [
+    {
+      "id": "R01",
+      "url": "https://aws.amazon.com/certification/",
+      "http_status": "200",
+      "final_url": "https://aws.amazon.com/certification/",
+      "content_type": "text/html;charset=utf-8",
+      "title": "AWS Certification - Validate AWS Cloud Skills - Get AWS Certified",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R02",
+      "url": "https://docs.aws.amazon.com/pdfs/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.pdf",
+      "http_status": "200",
+      "final_url": "https://docs.aws.amazon.com/pdfs/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R03",
+      "url": "https://skillbuilder.aws/category/exam-prep/solutions-architect-associate-SAA-C03",
+      "http_status": "200",
+      "final_url": "https://skillbuilder.aws/category/exam-prep/solutions-architect-associate-SAA-C03",
+      "content_type": "text/html",
+      "title": "AWS Skill Builder",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R04",
+      "url": "https://aws.amazon.com/certification/certification-prep/",
+      "http_status": "200",
+      "final_url": "https://aws.amazon.com/certification/certification-prep/",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Prepare for your AWS Certification Exam | Training and Certification | AWS",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R05",
+      "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+      "http_status": "200",
+      "final_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+      "content_type": "text/html",
+      "title": "AWS Well-Architected Framework - AWS Well-Architected Framework",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R06",
+      "url": "https://docs.aws.amazon.com/",
+      "http_status": "200",
+      "final_url": "https://docs.aws.amazon.com/",
+      "content_type": "text/html",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R07",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/",
+      "http_status": "200",
+      "final_url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/",
+      "content_type": "text/html;charset=utf-8",
+      "title": "AWS Builder Center Now Offers Free Sandbox Environments - AWS",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R08",
+      "url": "https://www.youtube.com/watch?v=c3Cn4xYfxJY",
+      "http_status": "200",
+      "final_url": "https://www.youtube.com/watch?v=c3Cn4xYfxJY",
+      "content_type": "text/html; charset=utf-8",
+      "title": "AWS Solutions Architect Associate Certification (SAA-C03) \u2013 Full Course to PASS the Exam - YouTube",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R09",
+      "url": "https://github.com/acantril/aws-sa-associate-saac03",
+      "http_status": "504",
+      "final_url": "https://github.com/acantril/aws-sa-associate-saac03",
+      "content_type": "text/html",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09",
+      "alternate_check": {
+        "method": "GitHub REST API via gh",
+        "resolved_repository": "acantril/aws-sa-associate-saac03",
+        "archived": false,
+        "last_push": "2023-11-07T14:39:26Z",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "R10",
+      "url": "https://github.com/awslabs/aws-well-architected-labs",
+      "http_status": "504",
+      "final_url": "https://github.com/awslabs/aws-well-architected-labs",
+      "content_type": "text/html",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09",
+      "alternate_check": {
+        "method": "GitHub REST API via gh",
+        "resolved_repository": "awslabs/aws-well-architected-labs",
+        "archived": false,
+        "last_push": "2026-01-14T16:20:40Z",
+        "license": "Apache-2.0"
+      }
+    },
+    {
+      "id": "R11",
+      "url": "https://github.com/AWSCertifications/AWSCertificationsWiki",
+      "http_status": "504",
+      "final_url": "https://github.com/AWSCertifications/AWSCertificationsWiki",
+      "content_type": "text/html",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09",
+      "alternate_check": {
+        "method": "GitHub REST API via gh",
+        "resolved_repository": "AWSCertifications/AWSCertificationsWiki",
+        "archived": false,
+        "last_push": "2026-07-25T16:37:21Z",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "R12",
+      "url": "https://github.com/apgosar/aws_exam_prep",
+      "http_status": "504",
+      "final_url": "https://github.com/apgosar/aws_exam_prep",
+      "content_type": "text/html",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09",
+      "alternate_check": {
+        "method": "GitHub REST API via gh",
+        "resolved_repository": "apgosar/aws_exam_prep",
+        "archived": false,
+        "last_push": "2026-05-26T07:10:44Z",
+        "license": null
+      }
+    },
+    {
+      "id": "R13",
+      "url": "https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/",
+      "http_status": "200",
+      "final_url": "https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "FREE AWS Certified Solutions Architect Associate Practice Exams - Sampler - Tutorials Dojo",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R14",
+      "url": "https://trainingcamp.com/aws-solutions-architect-practice-test/",
+      "http_status": "200",
+      "final_url": "https://trainingcamp.com/aws-solutions-architect-practice-test/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Free AWS Solutions Architect Practice Test | Training Camp",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R15",
+      "url": "https://app.boochi-engineer.net/service/aws-saa-siken?bsc_lang=en",
+      "http_status": "200",
+      "final_url": "https://app.boochi-engineer.net/service/aws-saa-siken?bsc_lang=en",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "AWS SAA-C03 Practice Questions | Free Mock Exam",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R16",
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.html",
+      "http_status": "200",
+      "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.html",
+      "content_type": "text/html",
+      "title": "AWS Certified Solutions Architect - Associate (SAA-C03) - AWS Certified Solutions Architect - Associate",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R17",
+      "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+      "http_status": "200",
+      "final_url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+      "content_type": "text/html;charset=utf-8",
+      "title": "AWS Certified Solutions Architect \u2013 Associate",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R18",
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-in-scope-services.html",
+      "http_status": "200",
+      "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-in-scope-services.html",
+      "content_type": "text/html",
+      "title": "In-Scope AWS Services - AWS Certified Solutions Architect - Associate",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R19",
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-out-of-scope-services.html",
+      "http_status": "200",
+      "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-out-of-scope-services.html",
+      "content_type": "text/html",
+      "title": "Out-of-Scope AWS Services - AWS Certified Solutions Architect - Associate",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R20",
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-technologies-concepts.html",
+      "http_status": "200",
+      "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-technologies-concepts.html",
+      "content_type": "text/html",
+      "title": "Technologies and Concepts - AWS Certified Solutions Architect - Associate",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R21",
+      "url": "https://aws.amazon.com/free/",
+      "http_status": "200",
+      "final_url": "https://aws.amazon.com/free/",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Free Cloud Computing Services - AWS Free Tier",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R22",
+      "url": "https://calculator.aws/",
+      "http_status": "200",
+      "final_url": "https://calculator.aws/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "AWS Pricing Calculator",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R23",
+      "url": "https://skillbuilder.aws/",
+      "http_status": "200",
+      "final_url": "https://skillbuilder.aws/",
+      "content_type": "text/html",
+      "title": "AWS Skill Builder",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R24",
+      "url": "https://www.freecodecamp.org/news/aws-certified-solutions-architect-associate-certification-saa-c03/",
+      "http_status": "404",
+      "final_url": "https://www.freecodecamp.org/news/aws-certified-solutions-architect-associate-certification-saa-c03/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Developer News | 404 - Page not found",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R25",
+      "url": "https://www.wellarchitectedlabs.com/",
+      "http_status": "200",
+      "final_url": "https://www.wellarchitectedlabs.com/",
+      "content_type": "text/html",
+      "title": "AWS Well-Architected Labs :: AWS Well-Architected Labs",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R26",
+      "url": "https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c03-exam-learning-path/",
+      "http_status": "200",
+      "final_url": "https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c03-exam-learning-path/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "AWS Certified Solutions Architect - Associate SAA-C03 Exam Learning Path",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R27",
+      "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+      "http_status": "403",
+      "final_url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09",
+      "alternate_check": {
+        "method": "web browser extraction",
+        "result": "Course page accessible; Stephane Maarek; updated 11/2026; course contents require enrollment"
+      }
+    },
+    {
+      "id": "R28",
+      "url": "https://tutorialsdojo.com/aws-cheat-sheets/",
+      "http_status": "200",
+      "final_url": "https://tutorialsdojo.com/aws-cheat-sheets/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Amazon Web Services AWS Cheat Sheets - Tutorials Dojo",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R29",
+      "url": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html",
+      "http_status": "200",
+      "final_url": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html",
+      "content_type": "text/html",
+      "title": "Disaster Recovery of Workloads on AWS: Recovery in the Cloud - Disaster Recovery of Workloads on AWS: Recovery in the Cloud",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R30",
+      "url": "https://docs.aws.amazon.com/whitepapers/latest/architecting-for-the-cloud/architecting-for-the-cloud.html",
+      "http_status": "404",
+      "final_url": "https://docs.aws.amazon.com/whitepapers/latest/architecting-for-the-cloud/architecting-for-the-cloud.html",
+      "content_type": "text/html",
+      "title": "Amazon Web Services Documentation",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R31",
+      "url": "https://aws.amazon.com/vpc/faqs/",
+      "http_status": "200",
+      "final_url": "https://aws.amazon.com/vpc/faqs/",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Amazon VPC FAQs",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R32",
+      "url": "https://aws.amazon.com/disaster-recovery/",
+      "http_status": "200",
+      "final_url": "https://aws.amazon.com/disaster-recovery/",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Disaster Recovery Service - AWS Elastic Disaster Recovery - AWS",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R33",
+      "url": "https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate",
+      "http_status": "504",
+      "final_url": "https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate",
+      "content_type": "text/html",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09",
+      "alternate_check": {
+        "method": "GitHub REST API via gh",
+        "resolved_repository": "havoud/AWS-Solutions-Architect-Associate",
+        "archived": false,
+        "last_push": "2022-12-08T11:06:19Z",
+        "license": null
+      }
+    },
+    {
+      "id": "R34",
+      "url": "https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+      "http_status": "200",
+      "final_url": "https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R35",
+      "url": "https://www.linkedin.com/learning/instructors/tom-carpenter-2?u=92408722",
+      "http_status": "200",
+      "final_url": "https://www.linkedin.com/learning/instructors/tom-carpenter-2?u=92408722",
+      "content_type": "text/html",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R36",
+      "url": "https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119982626",
+      "http_status": "200",
+      "final_url": "https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119982626",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R37",
+      "url": "https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solutions-architect-associate",
+      "http_status": "200",
+      "final_url": "https://skillbuilder.aws/search?searchText=exam-prep-aws-certified-solutions-architect-associate&showRedirectNotFoundBanner=true",
+      "content_type": "text/html",
+      "title": "AWS Skill Builder",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "id": "R38",
+      "url": "https://aws.amazon.com/architecture/icons/",
+      "http_status": "200",
+      "final_url": "https://aws.amazon.com/architecture/icons/",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Architecture Icon Page",
+      "curl_exit": 0,
+      "error": "",
+      "checked_on": "2026-11-09"
+    }
+  ]
+}

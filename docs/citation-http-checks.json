@@ -1,0 +1,569 @@
+[
+  {
+    "url": "https://app.boochi-engineer.net/service/aws-saa-siken?bsc_lang=en",
+    "http_status": "200",
+    "final_url": "https://app.boochi-engineer.net/service/aws-saa-siken?bsc_lang=en",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/architecture/icons/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/architecture/icons/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/security/how-to-use-on-demand-rotation-for-aws-kms-imported-keys/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/blogs/security/how-to-use-on-demand-rotation-for-aws-kms-imported-keys/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/certification/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/certification/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/certification/certification-prep/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/certification/certification-prep/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/certification/policies/after-testing/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/certification/policies/after-testing/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/certification/policies/before-testing/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/certification/policies/before-testing/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/disaster-recovery/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/disaster-recovery/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/free/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/free/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/global-accelerator/faqs/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/global-accelerator/faqs/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aws.amazon.com/vpc/faqs/",
+    "http_status": "200",
+    "final_url": "https://aws.amazon.com/vpc/faqs/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://calculator.aws/",
+    "http_status": "200",
+    "final_url": "https://calculator.aws/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+    "http_status": "200",
+    "final_url": "https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIEncryption.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIEncryption.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/RootDeviceStorage.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/RootDeviceStorage.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/change-instance-placement-group.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/change-instance-placement-group.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-interruptions.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-interruptions.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/WhatsNew.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/WhatsNew.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ebs-volumes.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ebs-volumes.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.StorageReliability.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.StorageReliability.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Concepts.AuroraHighAvailability.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Concepts.AuroraHighAvailability.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/WhatsNew.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/WhatsNew.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/conditional-writes.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/conditional-writes.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/default-bucket-encryption.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/default-bucket-encryption.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock-configure.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock-configure.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic-cross-account.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic-cross-account.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.consistency.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.consistency.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/V2globaltables_HowItWorks.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/V2globaltables_HowItWorks.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-scaling-cooldowns.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-scaling-cooldowns.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-backup/latest/devguide/vault-lock.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-backup/latest/devguide/vault-lock.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-in-scope-services.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-in-scope-services.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-out-of-scope-services.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-03-out-of-scope-services.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-technologies-concepts.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/saa-technologies-concepts.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03-domain1.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03-domain1.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03-domain2.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03-domain2.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03-domain3.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03-domain3.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03-domain4.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03-domain4.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Serverless.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Serverless.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/ebs/latest/userguide/general-purpose.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/ebs/latest/userguide/general-purpose.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/eks/latest/userguide/fargate.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/eks/latest/userguide/fargate.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/general/latest/gr/full_shutdown_services.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/general/latest/gr/full_shutdown_services.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/kinesisanalytics/latest/dev/discontinuation.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/kinesisanalytics/latest/dev/discontinuation.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/kms/latest/developerguide/importing-keys.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/kms/latest/developerguide/importing-keys.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/managed-flink/latest/java/what-is.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/managed-flink/latest/java/what-is.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/pdfs/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.pdf",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/pdfs/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.pdf",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/rekognition/latest/customlabels-dg/what-is.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/rekognition/latest/customlabels-dg/what-is.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/savingsplans/latest/userguide/plan-types.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/savingsplans/latest/userguide/plan-types.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/translate/latest/dg/what-is-languages.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/translate/latest/dg/what-is-languages.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-cidr-blocks.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-cidr-blocks.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-ip-addressing.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-ip-addressing.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/wellarchitected/latest/userguide/waf.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/wellarchitected/latest/userguide/waf.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html",
+    "http_status": "200",
+    "final_url": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solutions-architect-associate",
+    "http_status": "200",
+    "final_url": "https://skillbuilder.aws/search?searchText=exam-prep-aws-certified-solutions-architect-associate&showRedirectNotFoundBanner=true",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c03-exam-learning-path/",
+    "http_status": "200",
+    "final_url": "https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c03-exam-learning-path/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/",
+    "http_status": "200",
+    "final_url": "https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://skillbuilder.aws/",
+    "http_status": "200",
+    "final_url": "https://skillbuilder.aws/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://skillbuilder.aws/category/exam-prep/solutions-architect-associate-SAA-C03",
+    "http_status": "200",
+    "final_url": "https://skillbuilder.aws/category/exam-prep/solutions-architect-associate-SAA-C03",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://trainingcamp.com/aws-solutions-architect-practice-test/",
+    "http_status": "200",
+    "final_url": "https://trainingcamp.com/aws-solutions-architect-practice-test/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://tutorialsdojo.com/aws-cheat-sheets/",
+    "http_status": "200",
+    "final_url": "https://tutorialsdojo.com/aws-cheat-sheets/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119982626",
+    "http_status": "200",
+    "final_url": "https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119982626",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/",
+    "http_status": "200",
+    "final_url": "https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://www.linkedin.com/learning/instructors/tom-carpenter-2?u=92408722",
+    "http_status": "200",
+    "final_url": "https://www.linkedin.com/learning/instructors/tom-carpenter-2?u=92408722",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+    "http_status": "403",
+    "final_url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://www.wellarchitectedlabs.com/",
+    "http_status": "200",
+    "final_url": "https://www.wellarchitectedlabs.com/",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=c3Cn4xYfxJY",
+    "http_status": "200",
+    "final_url": "https://www.youtube.com/watch?v=c3Cn4xYfxJY",
+    "checked_on": "2026-11-09",
+    "curl_exit": 0
+  }
+]

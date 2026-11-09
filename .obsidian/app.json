@@ -1,0 +1,16 @@
+{
+  "useMarkdownLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Index",
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "defaultViewMode": "source",
+  "livePreview": true
+}
